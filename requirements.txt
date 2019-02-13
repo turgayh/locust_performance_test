@@ -1,0 +1,6 @@
+locustio==0.9.0
+gevent==1.4.0
+setuptools==40.8.0
+pyzmq==17.1.2
+BeautifulSoup4==4.7.1
+requests==2.21.0
